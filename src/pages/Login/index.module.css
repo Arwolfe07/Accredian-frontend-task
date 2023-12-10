@@ -1,0 +1,21 @@
+.formContainer{
+    padding: 10px;
+    display: flex;
+    height: calc(100vh - 20px);
+    align-items: center;
+    background: url('https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&w=600');
+    
+    
+}
+
+.cont{
+    border: 1px solid rgb(180, 180, 180);
+    padding: 3rem;
+    padding-top: 2rem;
+    box-shadow: 1px 2px 20px rgb(199, 199, 199);
+    height: fit-content;
+    background-color: white;
+}
+
+
+
